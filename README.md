@@ -1,6 +1,6 @@
 🚀  Olá
 
-Meu nome é Roger Ferreira. Sou estudante de Engenharia da Computação na Universidade Faculdade Boa Viagem, trabalho com Automação Bancária na NCR Brasil. Também sou programador FrontEnd e criador de vários repositórios com excelentes projetos.
+Meu nome é Roger Ferreira. Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, trabalho com Automação Bancária na NCR Brasil. Também sou programador FrontEnd e criador de vários repositórios com excelentes projetos.
 
 <br>
 <br>
