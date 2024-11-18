@@ -22,8 +22,5 @@ Meu nome é Roger Ferreira. Sou estudante de Análise e Desenvolvimento de Siste
 <br>
 
 ![Roger Ferreira stats](https://github-readme-stats.vercel.app/api?username=rogerferreiradev&show_icons=true&theme=radical)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerferreiradev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
